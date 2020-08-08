@@ -7,7 +7,7 @@
 
 - 1.We wanna check the relation between the age and the survival status.
 - 2.To check whether with increases of year survival status has been increased or not.
- -3.what is the relation of age and positiveAxillaryNode with survivalStatus.
+- 3.what is the relation of age and positiveAxillaryNode with survivalStatus.
 
 
 Data Source : kaggle
